@@ -1,30 +1,30 @@
 [submodule "system"]
 	path = system
-	url = https://github.com/kohana/core.git
+	url = https://github.com/Microcix/core.git
 [submodule "modules/codebench"]
 	path = modules/codebench
-	url = https://github.com/kohana/codebench.git
+	url = https://github.com/Microcix/codebench.git
 [submodule "modules/database"]
 	path = modules/database
-	url = https://github.com/kohana/database.git
+	url = https://github.com/Microcix/database.git
 [submodule "modules/image"]
 	path = modules/image
-	url = https://github.com/kohana/image.git
+	url = https://github.com/Microcix/image.git
 [submodule "modules/orm"]
 	path = modules/orm
-	url = https://github.com/kohana/orm.git
+	url = https://github.com/Microcix/orm.git
 [submodule "modules/auth"]
 	path = modules/auth
-	url = https://github.com/kohana/auth.git
+	url = https://github.com/Microcix/auth.git
 [submodule "modules/userguide"]
 	path = modules/userguide
-	url = https://github.com/kohana/userguide.git
+	url = https://github.com/Microcix/userguide.git
 [submodule "modules/cache"]
 	path = modules/cache
-	url = https://github.com/kohana/cache.git
+	url = https://github.com/Microcix/cache.git
 [submodule "modules/unittest"]
 	path = modules/unittest
-	url = https://github.com/kohana/unittest.git
+	url = https://github.com/Microcix/unittest.git
 [submodule "modules/minion"]
 	path = modules/minion
-	url = https://github.com/kohana/minion.git
+	url = https://github.com/Microcix/minion.git

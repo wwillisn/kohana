@@ -28,3 +28,6 @@
 [submodule "modules/minion"]
 	path = modules/minion
 	url = https://github.com/Microcix/minion.git
+[submodule "core"]
+	path = core
+	url = https://github.com/Microcix/core.git
